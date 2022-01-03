@@ -1,6 +1,6 @@
 ##### Lite version of Junior Front-End Developer
 
-# But Igor
+# Igor But
 
 ### Contacts detail
 
@@ -9,6 +9,11 @@
 - **Email:** tradegross@gmail.com
 - **Discord:** [Igor But (@tnemitnas)]
 - **Telegram:** [@Santiment](https://t.me/santiment)
+
+---
+### About Myself
+
+After studying at the university, I worked at the NetBid company as a developer of trading strategy to work on NYSE and NASDAQ. Also worked in the area of consultation foreign companies about due diligence verification companies from CIS. Created owne company for the production of Pompeii ovens and related equipment NapoliForno. Now, I think my ability to learn and apply new skills will provide an opportunity to enter a new profession. 
 
 ---
 
@@ -20,6 +25,19 @@
 - Git, GitHub (in progress)
 - VS Code
 - WebStorm
+
+---
+
+### Code example from [CodeWars](https://www.codewars.com/users/tnemitnas/ "link to my acc in CodeWars"):
+
+This code does not execute properly. Try to figure out why.
+
+>multiply = function (a, b) {
+>
+>return a * b;
+>
+>} 
+
 
 ---
 
