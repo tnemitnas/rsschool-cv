@@ -43,7 +43,7 @@ This code does not execute properly. Try to figure out why.
 
 ### Courses
 
-**HTMLAcademy:** Basic level HTML/CSS/PHP/JS
+**HTMLAcademy:** [Basic level HTML/CSS/PHP/JS](https://tnemitnas.github.io/my-site/ "link to my work in HTMLAcademy")
 
 **MetaLamp:** Frontend 1 step education
 
