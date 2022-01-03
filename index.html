@@ -1,10 +1,112 @@
 <!DOCTYPE html>
-<html>
- <head>
-   <title>!DOCTYPE</title>
-   <meta charset="utf-8">
- </head>
- <body>
-  <p>My new CV!</p>
- </body> 
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta http-equiv="X-UA-Compatible" content="IE=edge">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Igor But CV</title>
+    <link rel="stylesheet" href="./css/reset.css">
+    <link rel="stylesheet" href="./css/style.css">
+    <link rel="icon" href="./assets/img/favicon.ico">
+    <link rel="preconnect" href="https://fonts.gstatic.com">  
+    <link href="https://fonts.googleapis.com/css2?family=Roboto:wght@100;300;500;700&display=swap" rel="stylesheet">
+</head>
+
+<body>
+    <div class="container-centered">
+        <header class="header">
+                <nav class="nav">
+                    <ul class="nav-list">
+                        <li class="nav-item"><a href="#contacts" class="nav-link">Contacts</a></li>
+                        <li class="nav-item"><a href="#about" class="nav-link">About</a></li>
+                        <li class="nav-item"><a href="#skills" class="nav-link">Skills</a></li>
+                        <li class="nav-item"><a href="#codewars" class="nav-link">CodeWars</a></li>
+                        <li class="nav-item"><a href="#courses" class="nav-link">Courses</a></li>
+                        <li class="nav-item"><a href="#languages" class="nav-link">Languages</a></li>
+                    </ul>
+                </nav>
+        </header>
+        <main class="main">
+            <div class="container main-container">
+                <section class="section section-profile" id="profile">
+                    <img src="./assets/img/my_foto.png" alt class="section-profile-photo" width="204" height="204">
+                    <div class="section-profile-title">
+                        <h1 class="section-title main-title">Igor But</h1>
+                        <h2 class="section-subtitle">Lite version of Junior Front-End Developer</h2>
+                    </div>
+                </section>
+                <section class="section" id="contacts">
+                    <h2 class="section-title">Contacts</h2>
+                    <ul class="section-list">
+                        <li class="section-item contacts-item">Phone <a href="tel:+380952037712" 
+                                title="tel" target="blanck">+38 (095) 203 77 12</a></li>
+                        <li class="section-item contacts-item">GitHub: <a href="https://github.com/tnemitnas/"
+                                title="github" target="blanck">Igor But</a></li>
+                        <li class="section-item contacts-item">Email: <a href="mailto:tradegross@gmail.com"
+                                title="email" target="blanck">tradegross@gmail.com</a></li>
+                        <li class="section-item contacts-item">Discord: <a href="Igor But (@tnemitnas)"
+                                title="Discord" target="blanck">Igor But (@tnemitnas)</a></li>
+                        <li class="section-item contacts-item">Telegram: <a href="https://t.me/santiment"
+                                title="Telegram" target="blanck">@Santiment</a></li>
+                    </ul>
+                </section>
+                <section class="section" id="about">
+                    <h2 class="section-title">About Myself</h2>
+                    <p>
+                       After studying at the university, I worked at the NetBid company as a developer of trading strategy to work on NYSE and NASDAQ. Also worked in the area of consultation foreign companies about due diligence verification companies from CIS. Created owne company for the production of Pompeii ovens and related equipment NapoliForno. Now, I think my ability to learn and apply new skills will provide an opportunity to enter a new profession.
+                    </p>
+                </section>
+                <section class="section" id="skills">
+                    <h2 class="section-title">Skills</h2>
+                    <ul class="section-list">
+                        <li class="section-item">HTML5 (in progress)</li>
+                        <li class="section-item">CSS3 (in progress)</li>
+                        <li class="section-item">JavaScript Basics (in progress)</li>
+                        <li class="section-item">Git, GitHub (in progress)</li>
+                        <li class="section-item">VS Code</li>
+                        <li class="section-item">WebStorm</li>
+                    </ul>
+                </section>
+                <section class="section" id="codewars">
+                    <h2 class="section-title" href="https://www.codewars.com/users/tnemitnas/">Code example from CodeWars:</h2>
+                    <p>This code does not execute properly. Try to figure out why.</p>
+                         <code>
+                            multiply = function (a, b) {<Br>
+                                <Br>
+                            return a * b;<Br>
+                                <Br>
+                            }<Br>
+                        </code>            
+                </section>
+                <section class="section-languages" id="courses">
+                    <h2 class="section-title">Courses</h2>
+                    <ul class="section-list">
+                        <li class="section-item"><a href="https://tnemitnas.github.io/my-site/">HTMLAcademy: Basic level HTML/CSS/PHP/JS</a></li>
+                        <li class="section-item">MetaLamp: Frontend 1 step education</li>
+                        <li class="section-item">RS School: JavaScript/Front-end</li>
+                    </ul>
+                </section>       
+               <section class="section-courses" id="languages">
+                    <h2 class="section-title">Languages</h2>
+                    <ul class="section-list">
+                        <li class="section-item">Russian - native</li>
+                        <li class="section-item">Ukrainian - native</li>
+                        <li class="section-item">English - A2</li>
+                    </ul>
+                </section>
+            </div>
+        </main>
+        <footer class="footer">
+            <div class="footer-container">
+                    <a href="https://github.com/tnemitnas" target="blanck">
+                   My GitHub
+                    </a>                               
+                    &#169; 2022         
+                    <a href="https://rs.school/js-stage0/" target="blanck">
+                    <img src="./assets/svg/rsschool.svg" alt="Rsschool Icon" width="73" height="26">
+                    </a>
+            </div>
+        </footer>
+    </div>   
+</body>
 </html>
