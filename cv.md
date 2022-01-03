@@ -11,3 +11,24 @@
 - **Telegram:** [@Santiment](https://t.me/santiment)
 
 ---
+
+### Skills
+
+- HTML5 (in progress)
+- CSS3 (in progress)
+- JavaScript Basics (in progress)
+- Git, GitHub (in progress)
+- VS Code
+- WebStorm
+
+---
+
+### Courses
+
+**HTMLAcademy:** Basic level HTML/CSS/PHP/JS
+
+**MetaLamp:** Frontend 1 step education
+
+**RS School:** JavaScript/Front-end
+
+---
