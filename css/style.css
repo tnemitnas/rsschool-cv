@@ -157,14 +157,14 @@ main {
   padding-left: 1px;
 }
 
-footer {
+.footer {
   display: flex;
+  justify-content: center;
   background-color: #96c5f1;
   padding: 20px;
 }
 
 .footer-container {
-  align-items: center;
   margin: 10px;
   color: rgb(59, 2, 216);
 
